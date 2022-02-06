@@ -16,4 +16,4 @@ Os eventos configurados foram:
 
 ### Link Github Pages
 
-maxlobo.github.io/case-dp6/
+[maxlobo.github.io/case-dp6/](maxlobo.github.io/case-dp6/)
